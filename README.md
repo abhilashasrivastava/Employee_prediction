@@ -1,10 +1,11 @@
 # Employee_prediction
 [My Kaggle Notebook Link ](https://www.kaggle.com/code/abhilasha2003/employee-dataset-complete-analysis-and-modelling)
-About Dataset
-Context:
+
+# About Dataset
+# Context:
 This dataset contains information about employees in a company, including their educational backgrounds, work history, demographics, and employment-related factors. It has been anonymized to protect privacy while still providing valuable insights into the workforce.
 
-Columns:
+# Columns:
 
 Education: The educational qualifications of employees, including degree, institution, and field of study.
 
@@ -24,10 +25,10 @@ Experience in Current Domain: The number of years of experience employees have i
 
 Leave or Not: a target column
 
-Usage:
+# Usage:
 This dataset can be used for various HR and workforce-related analyses, including employee retention, salary structure assessments, diversity and inclusion studies, and leave pattern analyses. Researchers, data analysts, and HR professionals can gain valuable insights from this dataset.
 
-Potential Research Questions:
+# Potential Research Questions:
 
 What is the distribution of educational qualifications among employees?
 How does the length of service (Joining Year) vary across different cities?
