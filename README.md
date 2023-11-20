@@ -1,4 +1,5 @@
 # Employee_prediction
+[My Kaggle Notebook Link ](https://www.kaggle.com/code/abhilasha2003/employee-dataset-complete-analysis-and-modelling)
 About Dataset
 Context:
 This dataset contains information about employees in a company, including their educational backgrounds, work history, demographics, and employment-related factors. It has been anonymized to protect privacy while still providing valuable insights into the workforce.
