@@ -1,43 +1,28 @@
 # Employee_prediction
 [My Kaggle Notebook Link ](https://www.kaggle.com/code/abhilasha2003/employee-dataset-complete-analysis-and-modelling)
 
-# About Dataset
-# Context:
-This dataset contains information about employees in a company, including their educational backgrounds, work history, demographics, and employment-related factors. It has been anonymized to protect privacy while still providing valuable insights into the workforce.
+# Employee Data Analysis - Exploratory Data Analysis (EDA)
 
-# Columns:
+## Overview
+The Employee Data Analysis project focuses on exploring and analyzing employee data to gain insights into factors influencing employee churn. It includes exploratory data analysis (EDA) techniques and utilizes various machine learning algorithms for customer churn prediction.
 
-Education: The educational qualifications of employees, including degree, institution, and field of study.
+## Features
+- **Customer Churn Prediction**: Utilizes univariate and bivariate analysis techniques to predict customer churn.
+- **Machine Learning Algorithms**: Implements different machine learning algorithms including Support Vector Machine (SVM), Gaussian Naïve Bayes, and Decision Tree for customer churn prediction.
+- **Published Notebook**: The project notebook containing the EDA and prediction models is published on Kaggle, making it accessible to the community for learning and further analysis.
 
-Joining Year: The year each employee joined the company, indicating their length of service.
+## Usage
+1. **Data Exploration**: Begin by exploring the employee data to understand its structure, distribution, and relationships between variables.
+2. **Customer Churn Prediction**: Use univariate and bivariate analysis techniques to identify key factors influencing customer churn.
+3. **Model Training**: Train machine learning models using the identified factors and algorithms such as SVM, Gaussian Naïve Bayes, and Decision Tree.
+4. **Evaluation**: Evaluate the performance of trained models using appropriate metrics to assess their predictive capabilities.
+5. **Kaggle Publication**: Publish the project notebook on Kaggle to share insights and findings with the community and encourage collaboration and feedback.
 
-City: The location or city where each employee is based or works.
+## Requirements
+- Python (3.x recommended)
+- Jupyter Notebook
+- Python Libraries (e.g., Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- Kaggle Account (for publishing the notebook)
 
-Payment Tier: Categorization of employees into different salary tiers.
-
-Age: The age of each employee, providing demographic insights.
-
-Gender: Gender identity of employees, promoting diversity analysis.
-
-Ever Benched: Indicates if an employee has ever been temporarily without assigned work.
-
-Experience in Current Domain: The number of years of experience employees have in their current field.
-
-Leave or Not: a target column
-
-# Usage:
-This dataset can be used for various HR and workforce-related analyses, including employee retention, salary structure assessments, diversity and inclusion studies, and leave pattern analyses. Researchers, data analysts, and HR professionals can gain valuable insights from this dataset.
-
-# Potential Research Questions:
-
-What is the distribution of educational qualifications among employees?
-How does the length of service (Joining Year) vary across different cities?
-Is there a correlation between Payment Tier and Experience in Current Domain?
-What is the gender distribution within the workforce?
-Are there any patterns in leave-taking behavior among employees?
-Acknowledgments:
-We would like to acknowledge the contributions of our HR department in providing this dataset for research and analysis purposes.
-
-
-
-
+## Contribution
+Contributions to this project are welcome. Feel free to provide feedback, suggestions, or improvements to the notebook. Collaborate with the community on Kaggle to further enhance the analysis and prediction models.
